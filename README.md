@@ -10,7 +10,7 @@ My certifications and continuous learning journey in Data Science, Machine Learn
 | Machine Learning Fundamentals (DA 261) | IIT Guwahati / Coursera |
 | Generative AI Workshop | Google |
 | Python for Data Science | IBM Cognitive Class |
-
+| Machine Leraning With Python | IBM Cognitive Class |
 ## 📂 Certificates
 
 The certificate PDFs are available in this repository.
